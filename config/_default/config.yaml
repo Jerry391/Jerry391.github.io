@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Xiaojian Chen # Website name
-baseURL: 'https://cjerry.github.io/' # Website URL
+baseurl: "https://cjerry.github.io/" # Website URL
 #git clone https://github.com/Jerry391/cjerry.github.io.git My_Website
 #cd My_Website
 #git submodule update --init --recursive
