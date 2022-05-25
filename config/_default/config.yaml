@@ -5,6 +5,12 @@
 
 title: Xiaojian Chen # Website name
 baseURL: 'https://cjerry.github.io/' # Website URL
+#git clone https://github.com/Jerry391/cjerry.github.io.git My_Website
+#cd My_Website
+#git submodule update --init --recursive
+
+
+
 
 ############################
 ## LANGUAGE
