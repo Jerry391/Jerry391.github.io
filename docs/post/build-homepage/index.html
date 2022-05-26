@@ -115,6 +115,8 @@
     
     
     
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.css" integrity="" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
 
     
 
@@ -260,8 +262,8 @@
     <link rel="manifest" href="/manifest.webmanifest" />
   
 
-  <link rel="icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_3.png" />
-  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_180x180_fill_lanczos_center_3.png" />
+  <link rel="icon" type="image/png" href="/media/icon_hufdfa5337dc0472b61a037a7c7a7c5a86_16847_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hufdfa5337dc0472b61a037a7c7a7c5a86_16847_180x180_fill_lanczos_center_3.png" />
 
   <link rel="canonical" href="https://cjerry.github.io/post/build-homepage/" />
 
@@ -344,7 +346,7 @@
     "name": "Xiaojian Chen",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://cjerry.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
+      "url": "https://cjerry.github.io/media/icon_hufdfa5337dc0472b61a037a7c7a7c5a86_16847_192x192_fill_lanczos_center_3.png"
     }
   },
   "description": "写在前言：今天花了一天的时间将个人学术主页初步搭建好了，趁着"
@@ -535,80 +537,6 @@
           
 
           <li class="nav-item">
-            <a class="nav-link " href="/#posts"><span>Posts</span></a>
-          </li>
-
-          
-          
-
-          
-
-          
-          
-          
-            
-          
-
-          
-
-          
-          
-          
-          
-
-          
-            
-              
-              
-            
-            
-              
-              
-              
-                
-              
-              
-            
-          
-
-          <li class="nav-item">
-            <a class="nav-link " href="/#talks"><span>Talks</span></a>
-          </li>
-
-          
-          
-
-          
-
-          
-          
-          
-            
-          
-
-          
-
-          
-          
-          
-          
-
-          
-            
-              
-              
-            
-            
-              
-              
-              
-                
-              
-              
-            
-          
-
-          <li class="nav-item">
             <a class="nav-link " href="/#featured"><span>Publications</span></a>
           </li>
 
@@ -646,7 +574,111 @@
           
 
           <li class="nav-item">
+            <a class="nav-link " href="/#awards"><span>Honors & Awards</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#posts"><span>Posts</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
             <a class="nav-link " href="/#contact"><span>Contact</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/gallery"><span>Gallery</span></a>
           </li>
 
           
@@ -776,7 +808,7 @@
   
   <span class="middot-divider"></span>
   <span class="article-reading-time">
-    3 min read
+    4 min read
   </span>
   
 
@@ -786,10 +818,6 @@
   
 
   
-  
-  <span class="middot-divider"></span>
-  <span class="article-categories">
-    <i class="fas fa-folder mr-1"></i><a href="/category/%E6%95%99%E7%A8%8B/">教程</a></span>
   
 
 </div>
@@ -869,7 +897,12 @@
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">Conversion error: Jekyll::Converters::Scss encountered an error while converting &#39;assets/css/style.scss&#39;:No such file or directory @ dir_chdir - /github/workspace/docs
 </span></span></code></pre></div><p>​	我才知道原来是第五步这里少了一个命令，应该加一行命令语句：</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-go" data-lang="go"><span class="line"><span class="cl"><span class="nx">hugo</span> <span class="o">--</span><span class="nx">destination</span> <span class="p">.</span><span class="o">/</span><span class="nx">docs</span> <span class="o">--</span><span class="nx">buildDrafts</span> <span class="o">--</span><span class="nx">cleanDestinationDir</span>
-</span></span></code></pre></div><p>​	将项目文件生成静态网页至<code>./docs</code>，在对个人仓库<USERNAME>.github.io下进行Pages设置在<code>./docs</code>下</p>
+</span></span></code></pre></div><p>​	<em>我在之后又build有错，问题是</em> :</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">Error: fatal: remote error: upload-pack: not our ref 68d3700db3a223b3810db7e33635e99e9608143b
+</span></span><span class="line"><span class="cl">Error: fatal: Fetched in submodule path &#39;public&#39;, but it did not contain 68d3700db3a223b3810db7e33635e99e9608143b. Direct fetching of that commit failed.
+</span></span><span class="line"><span class="cl">Error: The process &#39;/usr/bin/git&#39; failed with exit code 128`
+</span></span></code></pre></div><p>​	<em>后来清了一下<code>public</code>的缓存，命令<code>git rm -r --cached public/</code>然后再上传一遍就好了</em></p>
+<p>将项目文件生成静态网页至<code>./docs</code>，在对个人仓库<USERNAME>.github.io下进行Pages设置在<code>./docs</code>下</p>
 
 
 
@@ -933,6 +966,12 @@
 
 
 
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/%E6%95%99%E7%A8%8B/">教程</a>
+  
+</div>
 
 
 
@@ -1242,6 +1281,8 @@
     
     
     
+      <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.js" integrity="" crossorigin="anonymous"></script>
+    
 
     
     
@@ -1312,6 +1353,7 @@
 
     
     
+      <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
     
     
     
