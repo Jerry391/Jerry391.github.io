@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Journal2020 6"
+title: "Multiuser Collaborative Illustration and Visualization for Volumetric Scientific Data"
 authors:
   - Richen Liu
   - Xiaodong Wen
