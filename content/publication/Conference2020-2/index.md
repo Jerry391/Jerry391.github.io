@@ -31,7 +31,7 @@ abstract: "Multi-user can collaboratively complete complex visualization tasks t
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: 'poster'
 categories: []
 featured: false
 

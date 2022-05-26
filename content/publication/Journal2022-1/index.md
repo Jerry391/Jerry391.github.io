@@ -36,7 +36,7 @@ abstract: "Underground flow paths (UFP) often play an important role in the illu
 # Summary. An optional shortened abstract.
 summary: "We designed and implemented multiple stratigraphic display modes based on volume data segmentation algorithms."
 
-tags: []
+tags: 'article'
 categories: []
 featured: true
 

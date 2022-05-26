@@ -31,7 +31,7 @@ abstract: "Multiuser can collaboratively complete complex visualization tasks th
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: 'article'
 categories: []
 featured: false
 

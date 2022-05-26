@@ -6,8 +6,8 @@ subtitle: ""
 summary: ""
 authors: 
   - admin
-tags: []
-categories: []
+tags: 
+  - 教程
 date: 2022-05-26T12:38:39+08:00
 lastmod: 2022-05-26T12:38:39+08:00
 featured: false
@@ -21,8 +21,7 @@ image:
   focal_point: ""
   preview_only: false
 
-categories:
-  - 教程
+categories: []
 
 
 # Projects (optional).
@@ -110,7 +109,17 @@ Conversion error: Jekyll::Converters::Scss encountered an error while converting
 hugo --destination ./docs --buildDrafts --cleanDestinationDir
 ```
 
-​	将项目文件生成静态网页至`./docs`，在对个人仓库<USERNAME>.github.io下进行Pages设置在`./docs`下
+​	*我在之后又build有错，问题是* :
+
+```
+Error: fatal: remote error: upload-pack: not our ref 68d3700db3a223b3810db7e33635e99e9608143b
+Error: fatal: Fetched in submodule path 'public', but it did not contain 68d3700db3a223b3810db7e33635e99e9608143b. Direct fetching of that commit failed.
+Error: The process '/usr/bin/git' failed with exit code 128`
+```
+
+​	*后来清了一下`public`的缓存，命令`git rm -r --cached public/`然后再上传一遍就好了*
+
+将项目文件生成静态网页至`./docs`，在对个人仓库<USERNAME>.github.io下进行Pages设置在`./docs`下
 
 {{< figure src="1.png" id="wowchemy" >}}
 

@@ -34,7 +34,7 @@ abstract: "Motivation: Narrative visualization for scientific data explorations 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: 'article'
 categories: []
 featured: false
 
