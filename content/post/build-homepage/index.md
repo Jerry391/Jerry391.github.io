@@ -77,6 +77,7 @@ git submodule add -f -b master https://github.com/<USERNAME>/<USERNAME>.github.i
 ```
 git add .
 git commit -m "Initial commit"
+git pull --rebase origin main
 git push -u origin main
 ```
 
