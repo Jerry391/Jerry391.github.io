@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>9 | Xiaojian Chen</title>
+    <link>https://cjerry.github.io/publication-type/9/</link>
+      <atom:link href="https://cjerry.github.io/publication-type/9/index.xml" rel="self" type="application/rss+xml" />
+    <description>9</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 26 Apr 2021 10:52:53 +0800</lastBuildDate>
+    <image>
+      <url>https://cjerry.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>9</title>
+      <link>https://cjerry.github.io/publication-type/9/</link>
+    </image>
+    
+    <item>
+      <title>Visualization Transfer from 2D Image to 3D Volume</title>
+      <link>https://cjerry.github.io/publication/conference2021-3/</link>
+      <pubDate>Mon, 26 Apr 2021 10:52:53 +0800</pubDate>
+      <guid>https://cjerry.github.io/publication/conference2021-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-user Collaborative Volume Data Illustration and Visualization</title>
+      <link>https://cjerry.github.io/publication/conference2020-2/</link>
+      <pubDate>Mon, 26 Oct 2020 10:52:48 +0800</pubDate>
+      <guid>https://cjerry.github.io/publication/conference2020-2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

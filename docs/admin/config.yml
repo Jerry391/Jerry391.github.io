@@ -599,8 +599,6 @@ collections:
       value: "7"
     - label: Patent
       value: "8"
-    - label: Conference poster
-      value: "9"
     required: true
     widget: select
   - label: Authors
