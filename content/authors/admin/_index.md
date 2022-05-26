@@ -31,7 +31,7 @@ education:
 #    - course: MEng in Artificial Intelligence
 #      institution: Massachusetts Institute of Technology
 #      year: 2009
-    - course: BSc in Computer Science and Technology
+    - course: BEng in Computer Science and Technology
       institution: Nanjing Normal University
       year: Sept. 2019 - Jun. 2023 (expected)
 
@@ -70,6 +70,6 @@ email: ''
 highlight_name: true
 ---
 
-Xiaojian Chen is a student of Computer Science and Technology at the School of Computer and Electronic Information/School of Artificial Intelligence, Nanjing Normal University. His research focused on applying 3D scientific volume data visualization and interaction in immersive environment. He is core participant of the DTXR Visualization group, which develops Extended Reality (XR: VR/AR/MR) + Visualization, Immersive Computing and Analytics, Scientific Visualization, HCI, 3D Reconstruction from A Single Image, Calibration, etc.
+Xiaojian Chen is now an undergraduate student of Computer Science and Technology at the School of Computer and Electronic Information/School of Artificial Intelligence, Nanjing Normal University. He is core participant of the DTXR Visualization group, supervised by Dr. [Richen Liu](https://dabigtou.github.io/richenliu/). His current research focused on applying 3D scientific volume data visualization and interaction in immersive environment. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
