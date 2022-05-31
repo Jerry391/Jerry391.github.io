@@ -897,7 +897,8 @@
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">Conversion error: Jekyll::Converters::Scss encountered an error while converting &#39;assets/css/style.scss&#39;:No such file or directory @ dir_chdir - /github/workspace/docs
 </span></span></code></pre></div><p>​	我才知道原来是第五步这里少了一个命令，应该加一行命令语句：</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-go" data-lang="go"><span class="line"><span class="cl"><span class="nx">hugo</span> <span class="o">--</span><span class="nx">destination</span> <span class="p">.</span><span class="o">/</span><span class="nx">docs</span> <span class="o">--</span><span class="nx">buildDrafts</span> <span class="o">--</span><span class="nx">cleanDestinationDir</span>
-</span></span></code></pre></div><p>​	<em>我在之后又build有错，问题是</em> :</p>
+</span></span></code></pre></div><p>​	不用生成public，只要把第五步替换为上面再上传就可以了</p>
+<p>​	<em>我在之后又build有错，问题是</em> :</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">Error: fatal: remote error: upload-pack: not our ref 68d3700db3a223b3810db7e33635e99e9608143b
 </span></span><span class="line"><span class="cl">Error: fatal: Fetched in submodule path &#39;public&#39;, but it did not contain 68d3700db3a223b3810db7e33635e99e9608143b. Direct fetching of that commit failed.
 </span></span><span class="line"><span class="cl">Error: The process &#39;/usr/bin/git&#39; failed with exit code 128`
