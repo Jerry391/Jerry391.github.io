@@ -64,7 +64,7 @@
   
     
   
-  <meta name="description" content="写在前言：今天花了一天的时间将个人学术主页初步搭建好了，趁着" />
+  <meta name="description" content="使用Hugo Academic主题并部署在GitHub上" />
 
   
   <link rel="alternate" hreflang="en-us" href="https://cjerry.github.io/post/build-homepage/" />
@@ -291,8 +291,8 @@
   
   <meta property="og:site_name" content="Xiaojian Chen" />
   <meta property="og:url" content="https://cjerry.github.io/post/build-homepage/" />
-  <meta property="og:title" content="Steps to Build A Website with Hugo Academic and GitHub | Xiaojian Chen" />
-  <meta property="og:description" content="写在前言：今天花了一天的时间将个人学术主页初步搭建好了，趁着" /><meta property="og:image" content="https://cjerry.github.io/post/build-homepage/featured.png" />
+  <meta property="og:title" content="如何搭建个人学术主页 | Xiaojian Chen" />
+  <meta property="og:description" content="使用Hugo Academic主题并部署在GitHub上" /><meta property="og:image" content="https://cjerry.github.io/post/build-homepage/featured.png" />
     <meta property="twitter:image" content="https://cjerry.github.io/post/build-homepage/featured.png" /><meta property="og:locale" content="en-us" />
   
     
@@ -327,7 +327,7 @@
     "@type": "WebPage",
     "@id": "https://cjerry.github.io/post/build-homepage/"
   },
-  "headline": "Steps to Build A Website with Hugo Academic and GitHub",
+  "headline": "如何搭建个人学术主页",
   
   "image": [
     "https://cjerry.github.io/post/build-homepage/featured.png"
@@ -349,7 +349,7 @@
       "url": "https://cjerry.github.io/media/icon_hufdfa5337dc0472b61a037a7c7a7c5a86_16847_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "写在前言：今天花了一天的时间将个人学术主页初步搭建好了，趁着"
+  "description": "使用Hugo Academic主题并部署在GitHub上"
 }
 </script>
 
@@ -365,7 +365,7 @@
 
 
 
-  <title>Steps to Build A Website with Hugo Academic and GitHub | Xiaojian Chen</title>
+  <title>如何搭建个人学术主页 | Xiaojian Chen</title>
 </head>
 
 
@@ -771,8 +771,10 @@
 
 
 <div class="article-container pt-3">
-  <h1>Steps to Build A Website with Hugo Academic and GitHub</h1>
+  <h1>如何搭建个人学术主页</h1>
 
+  
+  <p class="page-subtitle">使用Hugo Academic主题并部署在GitHub上</p>
   
 
   
@@ -897,6 +899,14 @@
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">Conversion error: Jekyll::Converters::Scss encountered an error while converting &#39;assets/css/style.scss&#39;:No such file or directory @ dir_chdir - /github/workspace/docs
 </span></span></code></pre></div><p>​	我才知道原来是第五步这里少了一个命令，应该加一行命令语句：</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-go" data-lang="go"><span class="line"><span class="cl"><span class="nx">hugo</span> <span class="o">--</span><span class="nx">destination</span> <span class="p">.</span><span class="o">/</span><span class="nx">docs</span> <span class="o">--</span><span class="nx">buildDrafts</span> <span class="o">--</span><span class="nx">cleanDestinationDir</span>
+</span></span></code></pre></div><p>​	不用生成public，只要把第五步替换为上面再上传就可以了</p>
+<h1 id="总结">总结</h1>
+<p>更新部署命令如下(在homepage根目录下)</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">hugo --destination ./docs --buildDrafts --cleanDestinationDir
+</span></span><span class="line"><span class="cl">git add .
+</span></span><span class="line"><span class="cl">git commit -m &#34;time.v&#34;
+</span></span><span class="line"><span class="cl">git pull --rebase origin main
+</span></span><span class="line"><span class="cl">git push -u origin main
 </span></span></code></pre></div><p>​	<em>我在之后又build有错，问题是</em> :</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">Error: fatal: remote error: upload-pack: not our ref 68d3700db3a223b3810db7e33635e99e9608143b
 </span></span><span class="line"><span class="cl">Error: fatal: Fetched in submodule path &#39;public&#39;, but it did not contain 68d3700db3a223b3810db7e33635e99e9608143b. Direct fetching of that commit failed.
@@ -986,7 +996,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://cjerry.github.io/post/build-homepage/&amp;text=Steps%20to%20Build%20A%20Website%20with%20Hugo%20Academic%20and%20GitHub" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://cjerry.github.io/post/build-homepage/&amp;text=%e5%a6%82%e4%bd%95%e6%90%ad%e5%bb%ba%e4%b8%aa%e4%ba%ba%e5%ad%a6%e6%9c%af%e4%b8%bb%e9%a1%b5" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -999,7 +1009,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://cjerry.github.io/post/build-homepage/&amp;t=Steps%20to%20Build%20A%20Website%20with%20Hugo%20Academic%20and%20GitHub" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://cjerry.github.io/post/build-homepage/&amp;t=%e5%a6%82%e4%bd%95%e6%90%ad%e5%bb%ba%e4%b8%aa%e4%ba%ba%e5%ad%a6%e6%9c%af%e4%b8%bb%e9%a1%b5" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -1012,7 +1022,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Steps%20to%20Build%20A%20Website%20with%20Hugo%20Academic%20and%20GitHub&amp;body=https://cjerry.github.io/post/build-homepage/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=%e5%a6%82%e4%bd%95%e6%90%ad%e5%bb%ba%e4%b8%aa%e4%ba%ba%e5%ad%a6%e6%9c%af%e4%b8%bb%e9%a1%b5&amp;body=https://cjerry.github.io/post/build-homepage/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1025,7 +1035,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://cjerry.github.io/post/build-homepage/&amp;title=Steps%20to%20Build%20A%20Website%20with%20Hugo%20Academic%20and%20GitHub" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https://cjerry.github.io/post/build-homepage/&amp;title=%e5%a6%82%e4%bd%95%e6%90%ad%e5%bb%ba%e4%b8%aa%e4%ba%ba%e5%ad%a6%e6%9c%af%e4%b8%bb%e9%a1%b5" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1038,7 +1048,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Steps%20to%20Build%20A%20Website%20with%20Hugo%20Academic%20and%20GitHub%20https://cjerry.github.io/post/build-homepage/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=%e5%a6%82%e4%bd%95%e6%90%ad%e5%bb%ba%e4%b8%aa%e4%ba%ba%e5%ad%a6%e6%9c%af%e4%b8%bb%e9%a1%b5%20https://cjerry.github.io/post/build-homepage/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1051,7 +1061,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://cjerry.github.io/post/build-homepage/&amp;title=Steps%20to%20Build%20A%20Website%20with%20Hugo%20Academic%20and%20GitHub" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://cjerry.github.io/post/build-homepage/&amp;title=%e5%a6%82%e4%bd%95%e6%90%ad%e5%bb%ba%e4%b8%aa%e4%ba%ba%e5%ad%a6%e6%9c%af%e4%b8%bb%e9%a1%b5" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>

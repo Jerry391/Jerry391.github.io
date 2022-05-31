@@ -36,7 +36,8 @@ content:
 #   columns: '2'
 ---
 
-1. China Collegiate Computer Design Contest, Jiangsu Division, Grand Prize *2021.08*
+1. China Collegiate Programming Contest, Jiangsu Division, Silver Award *2022.05*
+1. China Collegiate Computer Design Contest, Jiangsu Division, Grand Prize *2022.05*
 2. Merit Student of Jiangsu Province *2022.05*
 3. Best Poster Award, IEEE PacificVis'21 *2021.04*
 4. China Collegiate Programming Contest, Jiangsu Division, Bronze Award *2021.12*
