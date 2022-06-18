@@ -16,7 +16,7 @@ author_notes:
   - 'Equal contribution'
   
 date: '2022-03-05T00:00:00Z'
-doi: 'https://www.mdpi.com/2220-9964/11/3/176'
+doi: 'https://doi.org/10.3390/ijgi11030176'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-03-05T00:00:00Z'

@@ -42,4 +42,5 @@ content:
 4. China Collegiate Programming Contest, Jiangsu Division, Bronze Award *2021.12*
 5. China Undergraduate Mathematical Contest in Modeling, Jiangsu Division, Second Prize *2021.09*
 6. China Collegiate Computer Design Contest, Second Prize *2021.08*
-7. Best Poster Award, IEEE PacificVis'21 *2021.04
+7. Best Poster Award, IEEE PacificVis'21 *2021.04*
+

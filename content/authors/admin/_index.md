@@ -18,7 +18,8 @@ bio: My research interests focused on applying 3D scientific volume data visuali
 
 # Interests to show in About widget
 interests:
-  - Virtual Reality
+
+  - Extended Reality
   - Scientific Visualization
   - Human–Computer Interaction
 
