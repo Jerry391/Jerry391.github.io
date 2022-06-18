@@ -37,11 +37,9 @@ content:
 ---
 
 1. China Collegiate Programming Contest, Jiangsu Division, Silver Award *2022.05*
-1. China Collegiate Computer Design Contest, Jiangsu Division, Grand Prize *2022.05*
-2. Merit Student of Jiangsu Province *2022.05*
-3. Best Poster Award, IEEE PacificVis'21 *2021.04*
+2. China Collegiate Computer Design Contest, Jiangsu Division, Grand Prize *2022.05*
+3. Merit Student of Jiangsu Province *2022.05*
 4. China Collegiate Programming Contest, Jiangsu Division, Bronze Award *2021.12*
 5. China Undergraduate Mathematical Contest in Modeling, Jiangsu Division, Second Prize *2021.09*
 6. China Collegiate Computer Design Contest, Second Prize *2021.08*
-7. China Chemistry Olympiad, Zhejiang Division, Second Prize *2018.05*
-8. China Physics Olympiad, Zhejiang Division, Second Prize *2018.05*
+7. Best Poster Award, IEEE PacificVis'21 *2021.04

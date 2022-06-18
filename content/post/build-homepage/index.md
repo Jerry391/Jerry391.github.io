@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "如何搭建个人学术主页"
-subtitle: "使用Hugo Academic主题并部署在GitHub上"
-summary: "使用Hugo Academic主题并部署在GitHub上"
+title: "Steps to Build A Website with Hugo Academic and GitHub"
+subtitle: ""
+summary: ""
 authors: 
   - admin
 tags: 
@@ -107,20 +107,6 @@ Conversion error: Jekyll::Converters::Scss encountered an error while converting
 
 ```go
 hugo --destination ./docs --buildDrafts --cleanDestinationDir
-```
-
-​	不用生成public，只要把第五步替换为上面再上传就可以了
-
-# 总结
-
-更新部署命令如下(在homepage根目录下)
-
-```
-hugo --destination ./docs --buildDrafts --cleanDestinationDir
-git add .
-git commit -m "time.v"
-git pull --rebase origin main
-git push -u origin main
 ```
 
 ​	*我在之后又build有错，问题是* :
