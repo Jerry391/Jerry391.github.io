@@ -7,6 +7,13 @@
 # 💬 Invited Talks
 - *2023.06*, Speech at NJNU's Class of 2023 Commencement \| [\[video\]](https://www.bilibili.com/video/BV1PX4y1s7P7)
 
+# 📝 Teaching Assistant:
+- *Fall, 2022*,  C Programming Language Course, Nanjing Normal University
+[![](https://img.shields.io/github/stars/nnucs/C2022FALL?style=social&label=Code+Stars)](https://github.com/nnucs)
+- *Fall, 2022*, Database Principle and Application Course, Nanjing Normal University
+[![](https://img.shields.io/github/stars/nnucs/DB2022FALL?style=social&label=Code+Stars)](https://github.com/nnucs)
+- *Fall, 2021*, C Programming Language Course, Nanjing Normal University  
+
 # 💻 Internships
 <!-- - *2021.06 - 2021.09*, Alibaba, Hangzhou.
 - *2019.05 - 2020.02*, [EnjoyMusic](https://enjoymusic.ai/), Hangzhou.
