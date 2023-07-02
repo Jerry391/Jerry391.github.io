@@ -9,35 +9,28 @@ Richen Liu, Hailong Wang, Chuyu Zhang, **Xiaojian Chen**, Lijun Wang, Genlin Ji,
 <!-- - Many [video demos](https://www.bilibili.com/video/BV1be411N7JA) created by the [DiffSinger community](https://github.com/openvpi) are released.
 - This tool was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) ( views) on Bilibili! -->
 
-[**Project**]() \| [![](https://img.shields.io/github/stars/MoonInTheRiver/DiffSinger?style=social&label= Stars)](https://github.com/MoonInTheRiver/DiffSinger) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/NATSpeech/DiffSpeech) \| <span class='show_paper_citations' data='iShvJlEAAAAJ:u-x6o8ySG0sC'></span> 
+[**Project**]() \| [![](https://img.shields.io/github/stars/MoonInTheRiver/DiffSinger?style=social&label= Stars)](https://github.com/MoonInTheRiver/DiffSinger) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/NATSpeech/DiffSpeech)<span class='show_paper_citations' data='iShvJlEAAAAJ:u-x6o8ySG0sC'></span>
 </div>
 </div>
 
 ## 📕 Journals
 
 - ``comp+bio`` [GFAP: Ultra-fast and Accurate Gene Functional Annotation Software for Plants]( ) Dong Xu\*, Yingxue Yang\*, Desheng Gong\*, **Xiaojian Chen\***, Kangming Jin, Heling Jiang, Wenjuan Yu, Jihong Li, Jin Zhang, Weihua Pan. *Plant Physiology, Accepted, 2023*.
-<!-- <span class='show_paper_citations' data='iShvJlEAAAAJ:'></span> -->
 
 - ``SciVIS`` [Interactive Geological Data Visualization in an Immersive Environment](https://www.mdpi.com/2220-9964/11/3/176) **Xiaojian Chen\***, Hailong Wang\*, Yu Zhu, Hansheng Wang, Mingjun Su, Shuyu Bao, Yiping Wu. *International Journal of Geo-Information, 11(3):176, 2022*.
-<!-- <span class='show_paper_citations' data='iShvJlEAAAAJ:9yKSN-GCB0IC'></span> -->
 
 
 - ``SciVIS`` [Narrative Scientific Data Visualization in an Immersive Environment](https://academic.oup.com/bioinformatics/article/37/14/2033/6128509) Richen Liu, Hailong Wang, Chuyu Zhang, **Xiaojian Chen**, Lijun Wang, Genlin Ji, Bin Zhao, Zhiwei Mao, Dan Yang. *Bioinformatics, 37(14):2033-2041, 2021*.
-<!-- <span class='show_paper_citations' data='iShvJlEAAAAJ:u-x6o8ySG0sC'></span> -->
 
 - ``SciVIS`` [Multiuser Collaborative Illustration and Visualization for Volumetric Scientific Data](https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.2935) Richen Liu, Xiaodong Wen, Meng Jiang, Guang Yang, Chuyu Zhang, **Xiaojian Chen**. *Software: Practice and Experience, 51(5):1080-1096, 2021*.
-<!-- <span class='show_paper_citations' data='iShvJlEAAAAJ:u5HHmVD_uO8C'></span> -->
 
 ## 📘 Conferences
 
 - ``SciVIS`` [iTDW: Immersive Tiled Display Wall with Clustering-Driven Layout](https://ieeexplore.ieee.org/abstract/document/9974535) Hansheng Wang, **Xiaojian Chen**, Zeyu Xia, Hailong Wang, Xiaohan Wang, Richen Liu. *ISMAR, 2022*.
-<!-- <span class='show_paper_citations' data='iShvJlEAAAAJ:2osOgNQ5qMEC'></span> -->
 
 - ``SciVIS`` [Visualization Transfer from 2D Image to 3D Volume](http://vis.tju.edu.cn/pvis2021/pdf/poster/poster-papers/1007-doc.pdf) Dan Yang, Zhiwei Mao, **Xiaojian Chen**, Siru Chen, Xiaodong Wen, Meng Jiang, Yiping Wu. *PaciVIS, 2021*. [![PWC](https://img.shields.io/badge/best%20poster%20award-002d72)](http://vis.tju.edu.cn/pvis2021/program_posters.html)
-<!-- <span class='show_paper_citations' data='iShvJlEAAAAJ:d1gkVwhDpl0C'></span> -->
 
 - ``SciVIS`` [Multi-user Collaborative Volume Data Illustration and Visualization](https://ieeevis.org/year/2020/info/posters) Chuyu Zhang, **Xiaojian Chen**, Yu Zhu, Xiaohan Wang, Siru Chen, Xiaodong Wen, Richen Liu. *VIS, 2020*.
-<!-- <span class='show_paper_citations' data='iShvJlEAAAAJ:'></span> -->
 
 ## 📔 Patents
 
