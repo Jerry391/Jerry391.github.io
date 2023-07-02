@@ -19,8 +19,6 @@ redirect_from:
 
 {% include_relative includes/intro.md %}
 
-If you like the template of this homepage, welcome to star and fork my open-sourced template version [AcadHomepage ![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io?style=social)](https://github.com/RayeRen/acad-homepage.github.io).
-
 {% include_relative includes/news.md %}
 
 {% include_relative includes/pub.md %}
@@ -28,3 +26,16 @@ If you like the template of this homepage, welcome to star and fork my open-sour
 {% include_relative includes/honers.md %}
 
 {% include_relative includes/others.md %}
+
+<p style="text-align:right;font-size:small;" >Last updated: Jul 2, 2023</p>
+<!-- <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+  <tr>
+    <td style="padding:0px">
+      <br>
+      <p style="text-align:right;font-size:small;">
+      Template stolen from <a href="https://github.com/RayeRen/acad-homepage.github.io" style="social">AcadHomepage</a> 
+      <br> Last updated: Jul 2, 2023 
+      </p>
+    </td>
+  </tr>
+</tbody></table> -->

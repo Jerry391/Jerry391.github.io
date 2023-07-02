@@ -1,20 +1,17 @@
-
 # 📚 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Bioinformatics 2021</div><img src='images/immVIS.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism](https://arxiv.org/abs/2105.02446) \\
-Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
+[Narrative Scientific Data Visualization in an Immersive Environment](https://academic.oup.com/bioinformatics/article/37/14/2033/6128509) \\
+Richen Liu, Hailong Wang, Chuyu Zhang, **Xiaojian Chen**, Lijun Wang, Genlin Ji, Bin Zhao, Zhiwei Mao, Dan Yang
 
-- Many [video demos](https://www.bilibili.com/video/BV1be411N7JA) created by the [DiffSinger community](https://github.com/openvpi) are released.
-- DiffSinger was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) (1600k+ views) on Bilibili!
+<!-- - Many [video demos](https://www.bilibili.com/video/BV1be411N7JA) created by the [DiffSinger community](https://github.com/openvpi) are released.
+- This tool was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) ( views) on Bilibili! -->
 
-- [**Project**](https://diffsinger.github.io/) \| [![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=DiffSpeech Stars)](https://github.com/NATSpeech/NATSpeech) \| [![](https://img.shields.io/github/stars/MoonInTheRiver/DiffSinger?style=social&label=DiffSinger Stars)](https://github.com/MoonInTheRiver/DiffSinger) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/NATSpeech/DiffSpeech) \| 
-<span class='show_paper_citations' data='iShvJlEAAAAJ:9yKSN-GCB0IC'></span>
+[**Project**]() \| [![](https://img.shields.io/github/stars/MoonInTheRiver/DiffSinger?style=social&label= Stars)](https://github.com/MoonInTheRiver/DiffSinger) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/NATSpeech/DiffSpeech) \| <span class='show_paper_citations' data='iShvJlEAAAAJ:u-x6o8ySG0sC'></span> 
 </div>
 </div>
-
 
 ## 📕 Journals
 
@@ -23,6 +20,7 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 
 - ``SciVIS`` [Interactive Geological Data Visualization in an Immersive Environment](https://www.mdpi.com/2220-9964/11/3/176) **Xiaojian Chen\***, Hailong Wang\*, Yu Zhu, Hansheng Wang, Mingjun Su, Shuyu Bao, Yiping Wu. *International Journal of Geo-Information, 11(3):176, 2022*.
 <!-- <span class='show_paper_citations' data='iShvJlEAAAAJ:9yKSN-GCB0IC'></span> -->
+
 
 - ``SciVIS`` [Narrative Scientific Data Visualization in an Immersive Environment](https://academic.oup.com/bioinformatics/article/37/14/2033/6128509) Richen Liu, Hailong Wang, Chuyu Zhang, **Xiaojian Chen**, Lijun Wang, Genlin Ji, Bin Zhao, Zhiwei Mao, Dan Yang. *Bioinformatics, 37(14):2033-2041, 2021*.
 <!-- <span class='show_paper_citations' data='iShvJlEAAAAJ:u-x6o8ySG0sC'></span> -->
