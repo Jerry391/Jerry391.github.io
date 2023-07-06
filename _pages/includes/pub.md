@@ -15,7 +15,7 @@ Richen Liu, Hailong Wang, Chuyu Zhang, **Xiaojian Chen**, Lijun Wang, Genlin Ji,
 
 ## 📕 Journals
 
-- ``comp+bio`` [GFAP: Ultra-fast and Accurate Gene Functional Annotation Software for Plants]( ) Dong Xu\*, Yingxue Yang\*, Desheng Gong\*, **Xiaojian Chen\***, Kangming Jin, Heling Jiang, Wenjuan Yu, Jihong Li, Jin Zhang, Weihua Pan. *Plant Physiology, Accepted, 2023*.
+- ``comp+bio`` [GFAP: Ultra-fast and Accurate Gene Functional Annotation Software for Plants](https://doi.org/10.1093/plphys/kiad393) Dong Xu\*, Yingxue Yang\*, Desheng Gong\*, **Xiaojian Chen\***, Kangming Jin, Heling Jiang, Wenjuan Yu, Jihong Li, Jin Zhang, Weihua Pan. *Plant Physiology, kiad393, 2023*.
 
 - ``SciVIS`` [Interactive Geological Data Visualization in an Immersive Environment](https://www.mdpi.com/2220-9964/11/3/176) **Xiaojian Chen\***, Hailong Wang\*, Yu Zhu, Hansheng Wang, Mingjun Su, Shuyu Bao, Yiping Wu. *International Journal of Geo-Information, 11(3):176, 2022*.
 
@@ -36,7 +36,7 @@ Richen Liu, Hailong Wang, Chuyu Zhang, **Xiaojian Chen**, Lijun Wang, Genlin Ji,
 
 - ``comp+bio`` [Ligand docking gesture virtual screening method based on quick retrieval](https://patents.google.com/patent/CN116246696A/en?inventor=%E9%99%88%E6%99%93%E5%81%A5&oq=%E9%99%88%E6%99%93%E5%81%A5&sort=new) **Xiaojian Chen**, Yanhui Gu, Chang Liu, Xianfeng Zhang, Haohui Xia, Yang Li, Yafei Li, Jinlan Wang. *CN116246696A, 2023*.
 
-- ``comp+bio`` [A Graph Neural Network-based Method for Predicting Proteins and Ligands Docking Poses]() Yanhui Gu, **Xiaojian Chen**, Xianfeng Zhang, Yuansu Hao, Yuxin Wen, Chuyue Liao. *Application No. 202310327119.9, 2023*.
+- ``comp+bio`` [A Graph Neural Network-based Method for Predicting Proteins and Ligands Docking Poses]() Yanhui Gu, **Xiaojian Chen**, Xianfeng Zhang, Yuansu Hao, Yuxin Wen, Chuyue Liao. *CN116343910A, 2023*.
 
 - ``SciVIS`` [Immersive virtual large screen construction method based on cluster driving](https://patents.google.com/patent/CN115934014A/en?inventor=%E9%99%88%E6%99%93%E5%81%A5&oq=%E9%99%88%E6%99%93%E5%81%A5&sort=new) **Xiaojian Chen**, Richen Liu, Hansheng Wang, Hailong Wang, Zeyu Xia, Yu Zhu, Jiaqi Xu, Xiaohan Wang, Siyu Yan, Xiaojun Qian. *CN115934014A, 2023*.
 

@@ -34,7 +34,7 @@ redirect_from:
       <br>
       <p style="text-align:right;font-size:small;">
       Template stolen from <a href="https://github.com/RayeRen/acad-homepage.github.io" style="social">AcadHomepage</a> 
-      <br> Last updated: Jul 2, 2023 
+      <br> Last updated: Jul 6, 2023 
       </p>
     </td>
   </tr>
