@@ -9,8 +9,9 @@ Richen Liu, Hailong Wang, Chuyu Zhang, **Xiaojian Chen**, Lijun Wang, Genlin Ji,
 <!-- - Many [video demos](https://www.bilibili.com/video/BV1be411N7JA) created by the [DiffSinger community](https://github.com/openvpi) are released.
 - This tool was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) ( views) on Bilibili! -->
 
-[**Project**]() \| [![](https://img.shields.io/github/stars/MoonInTheRiver/DiffSinger?style=social&label= Stars)](https://github.com/MoonInTheRiver/DiffSinger) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/NATSpeech/DiffSpeech)<span class='show_paper_citations' data='iShvJlEAAAAJ:u-x6o8ySG0sC'></span>
+[**Project**]()<span class='show_paper_citations' data='iShvJlEAAAAJ:u-x6o8ySG0sC'></span>
 </div>
+ <!-- \| [![](https://img.shields.io/github/stars/MoonInTheRiver/DiffSinger?style=social&label= Stars)](https://github.com/MoonInTheRiver/DiffSinger) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/NATSpeech/DiffSpeech) -->
 </div>
 
 ## 📕 Journals
