@@ -37,7 +37,7 @@ Richen Liu, Hailong Wang, Chuyu Zhang, **Xiaojian Chen**, Lijun Wang, Genlin Ji,
 
 - ``comp+bio`` [Ligand docking gesture virtual screening method based on quick retrieval](https://patents.google.com/patent/CN116246696A/en?inventor=%E9%99%88%E6%99%93%E5%81%A5&oq=%E9%99%88%E6%99%93%E5%81%A5&sort=new) **Xiaojian Chen**, Yanhui Gu, Chang Liu, Xianfeng Zhang, Haohui Xia, Yang Li, Yafei Li, Jinlan Wang. *CN116246696A, 2023*.
 
-- ``comp+bio`` [A Graph Neural Network-based Method for Predicting Proteins and Ligands Docking Poses]() Yanhui Gu, **Xiaojian Chen**, Xianfeng Zhang, Yuansu Hao, Yuxin Wen, Chuyue Liao. *CN116343910A, 2023*.
+- ``comp+bio`` [Prediction method of docking posture between protein and ligand based on graphic neural network](https://patents.google.com/patent/CN116343910A/en?inventor=%E9%99%88%E6%99%93%E5%81%A5&sort=new) Yanhui Gu, **Xiaojian Chen**, Xianfeng Zhang, Yuansu Hao, Yuxin Wen, Chuyue Liao. *CN116343910A, 2023*.
 
 - ``SciVIS`` [Immersive virtual large screen construction method based on cluster driving](https://patents.google.com/patent/CN115934014A/en?inventor=%E9%99%88%E6%99%93%E5%81%A5&oq=%E9%99%88%E6%99%93%E5%81%A5&sort=new) **Xiaojian Chen**, Richen Liu, Hansheng Wang, Hailong Wang, Zeyu Xia, Yu Zhu, Jiaqi Xu, Xiaohan Wang, Siyu Yan, Xiaojun Qian. *CN115934014A, 2023*.
 
