@@ -28,7 +28,7 @@ redirect_from:
 {% include_relative includes/others.md %}
 
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=p9qHPDd26gpJzYb7A35Bstix3rM8fXqQmtGvL8KQ5uk"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=172&t=tt&d=p9qHPDd26gpJzYb7A35Bstix3rM8fXqQmtGvL8KQ5uk&co=5bb5f4&ct=ffffff&cmo=ed1818&cmn=28e528'></script>
 
 <p style="text-align:right;font-size:small;" >Last updated: Aug 14, 2023</p>
 <!-- <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
