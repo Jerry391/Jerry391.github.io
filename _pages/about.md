@@ -27,7 +27,10 @@ redirect_from:
 
 {% include_relative includes/others.md %}
 
-<p style="text-align:right;font-size:small;" >Last updated: Jul 2, 2023</p>
+
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=p9qHPDd26gpJzYb7A35Bstix3rM8fXqQmtGvL8KQ5uk"></script>
+
+<p style="text-align:right;font-size:small;" >Last updated: Aug 14, 2023</p>
 <!-- <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
   <tr>
     <td style="padding:0px">
