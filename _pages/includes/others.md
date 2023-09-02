@@ -1,11 +1,13 @@
 
 # 📖 Educations
-- *2023.08 - Now*, Master, Johns Hopkins University, Baltimore.<img src='/images/logo/jhu.png' style="height: 1.2em;">
-- *2019.09 - 2023.06*, Undergraduate, Nanjing Normal Univeristy, China.<img src='/images/logo/nnu.svg' style="height: 1.2em;">
-- *2016.09 - 2019.06*, Zhejiang Tiantai High School, China.<img src='/images/logo/ttzx.png' style="height: 1.2em;">
+- *2023.08 - Now*, Master, Johns Hopkins University, Baltimore.
+<!-- <img src='/images/logo/jhu.png' style="height: 1.2em;"> -->
+- *2019.09 - 2023.06*, Undergraduate, Nanjing Normal Univeristy, China.
+<!-- <img src='/images/logo/nnu.svg' style="height: 1.2em;"> -->
+<!-- - *2016.09 - 2019.06*, Zhejiang Tiantai High School, China.<img src='/images/logo/ttzx.png' style="height: 1.2em;"> -->
 
-# 💬 Invited Talks
-- *2023.06*, Speech at NJNU's Class of 2023 Commencement \| [\[Video\]](https://www.bilibili.com/video/BV1PX4y1s7P7) \| [\[Press\]](http://news.njnu.edu.cn/info/1107/100226.htm)
+<!-- # 💬 Invited Talks
+- *2023.06*, Speech at NJNU's Class of 2023 Commencement \| [\[Video\]](https://www.bilibili.com/video/BV1PX4y1s7P7) \| [\[Press\]](http://news.njnu.edu.cn/info/1107/100226.htm) -->
 
 # 📝 Teaching Assistant
 - *Fall, 2022*,  C Programming Language Course, Nanjing Normal University

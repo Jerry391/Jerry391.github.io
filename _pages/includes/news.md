@@ -1,4 +1,5 @@
 # 🔥 News
+
 - *2023.06*: 🎉 One paper ([GFAP]()) is accepted by Plant Physiol.
 
 <!-- - *2023.04*: 🔥 We release [AudioGPT](https://github.com/AIGC-Audio/AudioGPT) (⭐️6k+) -->
