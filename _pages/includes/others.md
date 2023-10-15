@@ -10,6 +10,7 @@
 - *2023.06*, Speech at NJNU's Class of 2023 Commencement \| [\[Video\]](https://www.bilibili.com/video/BV1PX4y1s7P7) \| [\[Press\]](http://news.njnu.edu.cn/info/1107/100226.htm) -->
 
 # 📝 Teaching Assistant
+- *Fall, 2023*,  EN.580.487 Computational Medicine: Cardiology Laboratory, Johns Hopkins University
 - *Fall, 2022*,  C Programming Language Course, Nanjing Normal University
 [![](https://img.shields.io/github/stars/nnucs/C2022FALL?style=social&label=Code+Stars)](https://github.com/nnucs/C2022FALL)
 - *Fall, 2022*, Database Principle and Application Course, Nanjing Normal University
