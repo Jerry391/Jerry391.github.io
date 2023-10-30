@@ -2,7 +2,7 @@
 # 💻 Selected Research Papers
 
 My full paper list is shown at [my personal homepage](https://Jerry391.github.io).
-
+<!-- 
 ## 📕 Journals
 
 - ``comp+bio`` [GFAP: Ultra-fast and Accurate Gene Functional Annotation Software for Plants](https://doi.org/10.1093/plphys/kiad393) Dong Xu\*, Yingxue Yang\*, Desheng Gong\*, **Xiaojian Chen\***, Kangming Jin, Heling Jiang, Wenjuan Yu, Jihong Li, Jin Zhang, Weihua Pan. *Plant Physiology, kiad393, 2023*.
@@ -30,4 +30,4 @@ My full paper list is shown at [my personal homepage](https://Jerry391.github.io
 
 - ``SciVIS`` [Immersive virtual large screen construction method based on cluster driving](https://patents.google.com/patent/CN115934014A/en?inventor=%E9%99%88%E6%99%93%E5%81%A5&oq=%E9%99%88%E6%99%93%E5%81%A5&sort=new) **Xiaojian Chen**, Richen Liu, Hansheng Wang, Hailong Wang, Zeyu Xia, Yu Zhu, Jiaqi Xu, Xiaohan Wang, Siyu Yan, Xiaojun Qian. *CN115934014A, 2023*.
 
-- ``VIS`` [Medical data visualization method based on histogram and nonlinear embedded transfer function](https://patents.google.com/patent/CN116206735A/en?inventor=%E9%99%88%E6%99%93%E5%81%A5&oq=%E9%99%88%E6%99%93%E5%81%A5&sort=new) Yu Zhu, Richen Liu, Xinru Li, Shuyu Bao, **Xiaojian Chen**, Guodong Chen, Rongxin Cang, Xiaohan Wang, Siyu Yan, Xiaojun Qian. *CN116206735A, 2023*.
+- ``VIS`` [Medical data visualization method based on histogram and nonlinear embedded transfer function](https://patents.google.com/patent/CN116206735A/en?inventor=%E9%99%88%E6%99%93%E5%81%A5&oq=%E9%99%88%E6%99%93%E5%81%A5&sort=new) Yu Zhu, Richen Liu, Xinru Li, Shuyu Bao, **Xiaojian Chen**, Guodong Chen, Rongxin Cang, Xiaohan Wang, Siyu Yan, Xiaojun Qian. *CN116206735A, 2023*. -->
