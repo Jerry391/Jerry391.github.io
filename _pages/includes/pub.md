@@ -26,6 +26,8 @@ Richen Liu, Hailong Wang, Chuyu Zhang, **Xiaojian Chen**, Lijun Wang, Genlin Ji,
 - ``SciVIS`` [Multiuser Collaborative Illustration and Visualization for Volumetric Scientific Data](https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.2935) Richen Liu, Xiaodong Wen, Meng Jiang, Guang Yang, Chuyu Zhang, **Xiaojian Chen**. *Software: Practice and Experience, 51(5):1080-1096, 2021*.
 
 ## 📘 Conferences
+- ``comp+bio`` [MapLE: Matching Molecular Analogues Promptly with Low Computational Resources by Multi-metrics Evaluation]() **Xiaojian Chen**, Chuyue Liao, Yanhui Gu, Yafei Li, Jinlan Wang, Yi Chen, Masaru Kitsuregawa. *AAAI, 2024* (Accepted).
+
 
 - ``SciVIS`` [iTDW: Immersive Tiled Display Wall with Clustering-Driven Layout](https://ieeexplore.ieee.org/abstract/document/9974535) Hansheng Wang, **Xiaojian Chen**, Zeyu Xia, Hailong Wang, Xiaohan Wang, Richen Liu. *ISMAR, 2022*.
 
@@ -41,4 +43,4 @@ Richen Liu, Hailong Wang, Chuyu Zhang, **Xiaojian Chen**, Lijun Wang, Genlin Ji,
 
 - ``SciVIS`` [Immersive virtual large screen construction method based on cluster driving](https://patents.google.com/patent/CN115934014A/en?inventor=%E9%99%88%E6%99%93%E5%81%A5&oq=%E9%99%88%E6%99%93%E5%81%A5&sort=new) **Xiaojian Chen**, Richen Liu, Hansheng Wang, Hailong Wang, Zeyu Xia, Yu Zhu, Jiaqi Xu, Xiaohan Wang, Siyu Yan, Xiaojun Qian. *CN115934014A, 2023*.
 
-- ``VIS`` [Medical data visualization method based on histogram and nonlinear embedded transfer function](https://patents.google.com/patent/CN116206735A/en?inventor=%E9%99%88%E6%99%93%E5%81%A5&oq=%E9%99%88%E6%99%93%E5%81%A5&sort=new) Yu Zhu, Richen Liu, Xinru Li, Shuyu Bao, **Xiaojian Chen**, Guodong Chen, Rongxin Cang, Xiaohan Wang, Siyu Yan, Xiaojun Qian. *CN116206735A, 2023*.
+- ``SciVIS`` [Medical data visualization method based on histogram and nonlinear embedded transfer function](https://patents.google.com/patent/CN116206735A/en?inventor=%E9%99%88%E6%99%93%E5%81%A5&oq=%E9%99%88%E6%99%93%E5%81%A5&sort=new) Yu Zhu, Richen Liu, Xinru Li, Shuyu Bao, **Xiaojian Chen**, Guodong Chen, Rongxin Cang, Xiaohan Wang, Siyu Yan, Xiaojun Qian. *CN116206735A, 2023*.
