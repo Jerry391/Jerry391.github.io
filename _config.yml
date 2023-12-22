@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xiaojian Chen"
-description              : "M.S.E Student in BME, JHU. Majoring in Biomedical Engineering."
+description              : "M.S.E Student in BME, JHU"
 repository               : "Jerry391/Jerry391.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xiaojian Chen"
   avatar           : "images/avator.jpg"
-  bio              : "Johns Hopkins University"
+  bio              : 
   location         : "Baltimore, MD"
   employer         :
   pubmed           : 
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : CJerry391
   vine             :
   weibo            :
   xing             :

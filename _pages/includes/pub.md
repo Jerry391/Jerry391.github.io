@@ -1,22 +1,22 @@
 # 📚 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Bioinformatics 2021</div><img src='images/immVIS.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Plant Physiology</div><img src='images/pub/gfap.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Narrative Scientific Data Visualization in an Immersive Environment](https://academic.oup.com/bioinformatics/article/37/14/2033/6128509) \\
-Richen Liu, Hailong Wang, Chuyu Zhang, **Xiaojian Chen**, Lijun Wang, Genlin Ji, Bin Zhao, Zhiwei Mao, Dan Yang
+[GFAP: Ultra-fast and Accurate Gene Functional Annotation Software for Plants](https://doi.org/10.1093/plphys/kiad393)\\
+Dong Xu, Yingxue Yang, Desheng Gong, **Xiaojian Chen**, Kangming Jin, Heling Jiang, Wenjuan Yu, Jihong Li, Jin Zhang, Weihua Pan.
 
 <!-- - Many [video demos](https://www.bilibili.com/video/BV1be411N7JA) created by the [DiffSinger community](https://github.com/openvpi) are released.
 - This tool was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) ( views) on Bilibili! -->
 
-[**Project**]()<span class='show_paper_citations' data='iShvJlEAAAAJ:u-x6o8ySG0sC'></span>
+[**Project**](http://43.139.112.84/go-kegg-pfam-index) \| [![Code Stars](https://img.shields.io/github/stars/simon19891216/GFAP?style=social&label=Code Stars)](https://github.com/simon19891216/GFAP) <span class='show_paper_citations' data='iShvJlEAAAAJ:Y0pCki6q_DkC'></span>
+
 </div>
- <!-- \| [![](https://img.shields.io/github/stars/MoonInTheRiver/DiffSinger?style=social&label= Stars)](https://github.com/MoonInTheRiver/DiffSinger) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/NATSpeech/DiffSpeech) -->
 </div>
 
 ## 📕 Journals
 
-- ``comp+bio`` [GFAP: Ultra-fast and Accurate Gene Functional Annotation Software for Plants](https://doi.org/10.1093/plphys/kiad393) Dong Xu, Yingxue Yang, Desheng Gong, **Xiaojian Chen**, Kangming Jin, Heling Jiang, Wenjuan Yu, Jihong Li, Jin Zhang, Weihua Pan. *Plant Physiology, 193(3): 1745–1748, 2023*.
+- ``comp+bio`` [GFAP: Ultra-fast and Accurate Gene Functional Annotation Software for Plants](https://doi.org/10.1093/plphys/kiad393) Dong Xu, Yingxue Yang, Desheng Gong, **Xiaojian Chen**, Kangming Jin, Heling Jiang, Wenjuan Yu, Jihong Li, Jin Zhang, Weihua Pan. *Plant Physiology, 193(3): 1745-1748, 2023*.
 
 - ``SciVIS`` [Interactive Geological Data Visualization in an Immersive Environment](https://www.mdpi.com/2220-9964/11/3/176) **Xiaojian Chen**, Hailong Wang, Yu Zhu, Hansheng Wang, Mingjun Su, Shuyu Bao, Yiping Wu. *International Journal of Geo-Information, 11(3):176, 2022*.
 
@@ -26,7 +26,7 @@ Richen Liu, Hailong Wang, Chuyu Zhang, **Xiaojian Chen**, Lijun Wang, Genlin Ji,
 - ``SciVIS`` [Multiuser Collaborative Illustration and Visualization for Volumetric Scientific Data](https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.2935) Richen Liu, Xiaodong Wen, Meng Jiang, Guang Yang, Chuyu Zhang, **Xiaojian Chen**. *Software: Practice and Experience, 51(5):1080-1096, 2021*.
 
 ## 📘 Conferences
-- ``comp+bio`` [MapLE: Matching Molecular Analogues Promptly with Low Computational Resources by Multi-metrics Evaluation]() **Xiaojian Chen**, Chuyue Liao, Yanhui Gu, Yafei Li, Jinlan Wang, Yi Chen, Masaru Kitsuregawa. *AAAI, 2024* (Accepted).
+- ``comp+bio`` [MapLE: Matching Molecular Analogues Promptly with Low Computational Resources by Multi-metrics Evaluation](https://aaai.org/aaai-conference/aaai-24-student-abstracts-and-poster-program/) **Xiaojian Chen**, Chuyue Liao, Yanhui Gu, Yafei Li, Jinlan Wang, Yi Chen, Masaru Kitsuregawa. *AAAI, 2024* (Accepted).
 
 
 - ``SciVIS`` [iTDW: Immersive Tiled Display Wall with Clustering-Driven Layout](https://ieeexplore.ieee.org/abstract/document/9974535) Hansheng Wang, **Xiaojian Chen**, Zeyu Xia, Hailong Wang, Xiaohan Wang, Richen Liu. *ISMAR, 2022*.
