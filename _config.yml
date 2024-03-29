@@ -118,17 +118,16 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-
+ 
 # Defaults
 defaults:
   # _pages
   - scope:
-      path: ""
+      path: "/"
       type: pages
     values:
       layout: default
-      author_profile: true
-
+      author_profile: true 
 
 # Sass/SCSS
 sass:

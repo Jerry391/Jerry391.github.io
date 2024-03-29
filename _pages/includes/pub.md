@@ -26,7 +26,7 @@ Dong Xu, Yingxue Yang, Desheng Gong, **Xiaojian Chen**, Kangming Jin, Heling Jia
 - ``SciVIS`` [Multiuser Collaborative Illustration and Visualization for Volumetric Scientific Data](https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.2935) Richen Liu, Xiaodong Wen, Meng Jiang, Guang Yang, Chuyu Zhang, **Xiaojian Chen**. *Software: Practice and Experience, 51(5):1080-1096, 2021*.
 
 ## 📘 Conferences
-- ``comp+bio`` [MapLE: Matching Molecular Analogues Promptly with Low Computational Resources by Multi-metrics Evaluation](https://aaai.org/aaai-conference/aaai-24-student-abstracts-and-poster-program/) **Xiaojian Chen**, Chuyue Liao, Yanhui Gu, Yafei Li, Jinlan Wang, Yi Chen, Masaru Kitsuregawa. *AAAI, 2024* (Accepted).
+- ``comp+bio`` [MapLE: Matching Molecular Analogues Promptly with Low Computational Resources by Multi-metrics Evaluation](https://ojs.aaai.org/index.php/AAAI/article/view/30427) **Xiaojian Chen**, Chuyue Liao, Yanhui Gu, Yafei Li, Jinlan Wang, Yi Chen, Masaru Kitsuregawa. *AAAI, 2024*.
 
 
 - ``SciVIS`` [iTDW: Immersive Tiled Display Wall with Clustering-Driven Layout](https://ieeexplore.ieee.org/abstract/document/9974535) Hansheng Wang, **Xiaojian Chen**, Zeyu Xia, Hailong Wang, Xiaohan Wang, Richen Liu. *ISMAR, 2022*.
