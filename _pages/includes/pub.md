@@ -1,4 +1,31 @@
-# 📚 Publications 
+# 📚 Publications <a href='https://scholar.google.com/citations?user=iShvJlEAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FJerry391%2FJerry391.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/pub/scmbert.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[scMBERT: a Pre-trained Deep Learning Model based on Single-Cell Multiomic Data Representation and Prediction]()\\
+**Xiaojian Chen**, Kuai Yu, Minzhi Jiang, Cihan Xiao, Ziqi Fu, Weiqiang Zhou.
+
+<!-- - Many [video demos](https://www.bilibili.com/video/BV1be411N7JA) created by the [DiffSinger community](https://github.com/openvpi) are released.
+- This tool was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) ( views) on Bilibili! -->
+
+[**Project**]() \| <span class='show_paper_citations' data=''></span>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SPIE Medical Imaging 2025</div><img src='images/pub/ctrl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Correlation Ratio for Unsupervised Learning of Multi-modal Deformable Registration](https://spie.org/medical-imaging/presentation/Correlation-ratio-for-unsupervised-learning-of-multi-modal-deformable-registration/13406-113)\\
+**Xiaojian Chen**, Yihao Liu, Shuwen Wei, Aaron Carass, Yong Du, Junyu Chen.
+
+<!-- - Many [video demos](https://www.bilibili.com/video/BV1be411N7JA) created by the [DiffSinger community](https://github.com/openvpi) are released.
+- This tool was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) ( views) on Bilibili! -->
+
+[**Project**]() \| [![Code Stars](https://img.shields.io/github/stars/junyuchen245/Correlation_Ratio?style=social&label=Code Stars)](https://github.com/junyuchen245/Correlation_Ratio) <span class='show_paper_citations' data=''></span>
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Plant Physiology</div><img src='images/pub/gfap.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -10,22 +37,29 @@ Dong Xu, Yingxue Yang, Desheng Gong, **Xiaojian Chen**, Kangming Jin, Heling Jia
 - This tool was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) ( views) on Bilibili! -->
 
 [**Project**](http://43.139.112.84/go-kegg-pfam-index) \| [![Code Stars](https://img.shields.io/github/stars/simon19891216/GFAP?style=social&label=Code Stars)](https://github.com/simon19891216/GFAP) <span class='show_paper_citations' data='iShvJlEAAAAJ:Y0pCki6q_DkC'></span>
+</div>
+</div>
 
-</div>
-</div>
 
 ## 📕 Journals
+- ``AI+med`` [Risk Prediction for Non-cardiac Surgery Using the 12-Lead Electrocardiogram: An Explainable Deep Learning Approach](https://doi.org/10.1101/2024.11.19.24317577) Carl Harris, Anway Pimpalkar, Ataes Aggarwal, Jiyuan Yang, **Xiaojian Chen**, Samuel Schmidgall, Sampath Rapuri,  View ORCID ProfileJoseph L. Greenstein, Casey Overby Taylor, Robert D. Stevens. *medRxiv 2024.11.19.24317577*.
+
+- ``AI+med`` [Phonocardiogram (PCG) Murmur Detection Based on the Mean Teacher Method](https://doi.org/10.3390/s24206646) Yi Luo, Zuoming Fu, Yantian Ding, **Xiaojian Chen**, Kai Ding. *Sensors, 24(20):6646, 2024*.
 
 - ``comp+bio`` [GFAP: Ultra-fast and Accurate Gene Functional Annotation Software for Plants](https://doi.org/10.1093/plphys/kiad393) Dong Xu, Yingxue Yang, Desheng Gong, **Xiaojian Chen**, Kangming Jin, Heling Jiang, Wenjuan Yu, Jihong Li, Jin Zhang, Weihua Pan. *Plant Physiology, 193(3): 1745-1748, 2023*.
 
-- ``SciVIS`` [Interactive Geological Data Visualization in an Immersive Environment](https://www.mdpi.com/2220-9964/11/3/176) **Xiaojian Chen**, Hailong Wang, Yu Zhu, Hansheng Wang, Mingjun Su, Shuyu Bao, Yiping Wu. *International Journal of Geo-Information, 11(3):176, 2022*.
+- ``SciVIS`` [Interactive Geological Data Visualization in an Immersive Environment](https://doi.org/10.3390/ijgi11030176) **Xiaojian Chen**, Hailong Wang, Yu Zhu, Hansheng Wang, Mingjun Su, Shuyu Bao, Yiping Wu. *International Journal of Geo-Information, 11(3):176, 2022*.
 
 
-- ``SciVIS`` [Narrative Scientific Data Visualization in an Immersive Environment](https://academic.oup.com/bioinformatics/article/37/14/2033/6128509) Richen Liu, Hailong Wang, Chuyu Zhang, **Xiaojian Chen**, Lijun Wang, Genlin Ji, Bin Zhao, Zhiwei Mao, Dan Yang. *Bioinformatics, 37(14):2033-2041, 2021*.
+- ``SciVIS`` [Narrative Scientific Data Visualization in an Immersive Environment](https://doi.org/10.1093/bioinformatics/btab052) Richen Liu, Hailong Wang, Chuyu Zhang, **Xiaojian Chen**, Lijun Wang, Genlin Ji, Bin Zhao, Zhiwei Mao, Dan Yang. *Bioinformatics, 37(14):2033-2041, 2021*.
 
-- ``SciVIS`` [Multiuser Collaborative Illustration and Visualization for Volumetric Scientific Data](https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.2935) Richen Liu, Xiaodong Wen, Meng Jiang, Guang Yang, Chuyu Zhang, **Xiaojian Chen**. *Software: Practice and Experience, 51(5):1080-1096, 2021*.
+- ``SciVIS`` [Multiuser Collaborative Illustration and Visualization for Volumetric Scientific Data](https://doi.org/10.1002/spe.2935) Richen Liu, Xiaodong Wen, Meng Jiang, Guang Yang, Chuyu Zhang, **Xiaojian Chen**. *Software: Practice and Experience, 51(5):1080-1096, 2021*.
 
 ## 📘 Conferences
+- ``comp+bio`` [scMBERT: a Pre-trained Deep Learning Model based on Single-Cell Multiomic Data Representation and Prediction]() **Xiaojian Chen**, Kuai Yu, Minzhi Jiang, Cihan Xiao, Ziqi Fu, Weiqiang Zhou. *AAAI, 2025*.
+
+- ``AI+med`` [Correlation Ratio for Unsupervised Learning of Multi-modal Deformable Registration](https://spie.org/medical-imaging/presentation/Correlation-ratio-for-unsupervised-learning-of-multi-modal-deformable-registration/13406-113) **Xiaojian Chen**, Yihao Liu, Shuwen Wei, Aaron Carass, Yong Du, Junyu Chen. *SPIE Medical Imaging 2025*.
+
 - ``comp+bio`` [MapLE: Matching Molecular Analogues Promptly with Low Computational Resources by Multi-metrics Evaluation](https://ojs.aaai.org/index.php/AAAI/article/view/30427) **Xiaojian Chen**, Chuyue Liao, Yanhui Gu, Yafei Li, Jinlan Wang, Yi Chen, Masaru Kitsuregawa. *AAAI, 2024*.
 
 
