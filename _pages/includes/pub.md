@@ -10,7 +10,7 @@
 <!-- - Many [video demos](https://www.bilibili.com/video/BV1be411N7JA) created by the [DiffSinger community](https://github.com/openvpi) are released.
 - This tool was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) ( views) on Bilibili! -->
 
-[**Project**]() \| <span class='show_paper_citations' data=''></span>
+[**Project**]() \| [![Code Stars](https://img.shields.io/github/stars/Jerry391/scMBERT?style=social&label=Code Stars)](https://github.com/Jerry391/scMBERT) <span class='show_paper_citations' data=''></span>
 </div>
 </div>
 
@@ -42,7 +42,7 @@ Dong Xu, Yingxue Yang, Desheng Gong, **Xiaojian Chen**, Kangming Jin, Heling Jia
 
 
 ## 📕 Journals
-- ``AI+med`` [Risk Prediction for Non-cardiac Surgery Using the 12-Lead Electrocardiogram: An Explainable Deep Learning Approach](https://doi.org/10.1101/2024.11.19.24317577) Carl Harris, Anway Pimpalkar, Ataes Aggarwal, Jiyuan Yang, **Xiaojian Chen**, Samuel Schmidgall, Sampath Rapuri,  View ORCID ProfileJoseph L. Greenstein, Casey Overby Taylor, Robert D. Stevens. *medRxiv 2024.11.19.24317577*.
+- ``AI+med`` [Risk Prediction for Non-cardiac Surgery Using the 12-Lead Electrocardiogram: An Explainable Deep Learning Approach](https://doi.org/10.1101/2024.11.19.24317577) Carl Harris, Anway Pimpalkar, Ataes Aggarwal, Jiyuan Yang, **Xiaojian Chen**, Samuel Schmidgall, Sampath Rapuri,  View ORCID ProfileJoseph L. Greenstein, Casey Overby Taylor, Robert D. Stevens. *medRxiv 2024.11.19.24317577*; Submitted to Circulation.
 
 - ``AI+med`` [Phonocardiogram (PCG) Murmur Detection Based on the Mean Teacher Method](https://doi.org/10.3390/s24206646) Yi Luo, Zuoming Fu, Yantian Ding, **Xiaojian Chen**, Kai Ding. *Sensors, 24(20):6646, 2024*.
 
@@ -65,7 +65,7 @@ Dong Xu, Yingxue Yang, Desheng Gong, **Xiaojian Chen**, Kangming Jin, Heling Jia
 
 - ``SciVIS`` [iTDW: Immersive Tiled Display Wall with Clustering-Driven Layout](https://ieeexplore.ieee.org/abstract/document/9974535) Hansheng Wang, **Xiaojian Chen**, Zeyu Xia, Hailong Wang, Xiaohan Wang, Richen Liu. *ISMAR, 2022*.
 
-- ``SciVIS`` [Visualization Transfer from 2D Image to 3D Volume](http://vis.tju.edu.cn/pvis2021/pdf/poster/poster-papers/1007-doc.pdf) Dan Yang, Zhiwei Mao, **Xiaojian Chen**, Siru Chen, Xiaodong Wen, Meng Jiang, Yiping Wu. *PaciVIS, 2021*. [![PWC](https://img.shields.io/badge/best%20poster%20award-002d72)](http://vis.tju.edu.cn/pvis2021/program_posters.html)
+- ``SciVIS`` [Visualization Transfer from 2D Image to 3D Volume](http://vis.tju.edu.cn/pvis2021/pdf/poster/poster-papers/1007-doc.pdf) Dan Yang, Zhiwei Mao, **Xiaojian Chen**, Siru Chen, Xiaodong Wen, Meng Jiang, Yiping Wu. *IEEE PacificVIS, 2021*. [![PWC](https://img.shields.io/badge/best%20poster%20award-002d72)](http://vis.tju.edu.cn/pvis2021/program_posters.html)
 
 - ``SciVIS`` [Multi-user Collaborative Volume Data Illustration and Visualization](https://ieeevis.org/year/2020/info/posters) Chuyu Zhang, **Xiaojian Chen**, Yu Zhu, Xiaohan Wang, Siru Chen, Xiaodong Wen, Richen Liu. *VIS, 2020*.
 
