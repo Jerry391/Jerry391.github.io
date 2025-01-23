@@ -36,15 +36,15 @@ Dong Xu, Yingxue Yang, Desheng Gong, **Xiaojian Chen**, Kangming Jin, Heling Jia
 <!-- - Many [video demos](https://www.bilibili.com/video/BV1be411N7JA) created by the [DiffSinger community](https://github.com/openvpi) are released.
 - This tool was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) ( views) on Bilibili! -->
 
-[**Project**](http://43.139.112.84/go-kegg-pfam-index) \| [![Code Stars](https://img.shields.io/github/stars/simon19891216/GFAP?style=social&label=Code Stars)](https://github.com/simon19891216/GFAP) <span class='show_paper_citations' data='iShvJlEAAAAJ:Y0pCki6q_DkC'></span>
+[**Project**](https://43.139.112.84/go-kegg-pfam-index) \| [![Code Stars](https://img.shields.io/github/stars/simon19891216/GFAP?style=social&label=Code Stars)](https://github.com/simon19891216/GFAP) <span class='show_paper_citations' data='iShvJlEAAAAJ:Y0pCki6q_DkC'></span>
 </div>
 </div>
 
 
 ## 📕 Journals
-- ``AI+med`` [Risk Prediction for Non-cardiac Surgery Using the 12-Lead Electrocardiogram: An Explainable Deep Learning Approach](https://doi.org/10.1101/2024.11.19.24317577) Carl Harris, Anway Pimpalkar, Ataes Aggarwal, Jiyuan Yang, **Xiaojian Chen**, Samuel Schmidgall, Sampath Rapuri,  View ORCID ProfileJoseph L. Greenstein, Casey Overby Taylor, Robert D. Stevens. *medRxiv 2024.11.19.24317577*; Submitted to Circulation.
+- ``AI+med`` [Risk Prediction for Non-cardiac Surgery Using the 12-Lead Electrocardiogram: An Explainable Deep Learning Approach](https://doi.org/10.1101/2024.11.19.24317577) Carl Harris, Anway Pimpalkar, Ataes Aggarwal, Jiyuan Yang, **Xiaojian Chen**, Samuel Schmidgall, Sampath Rapuri, Joseph L. Greenstein, Casey Overby Taylor, Robert D. Stevens. *medRxiv 2024.11.19.24317577*; Submitted to Circulation.
 
-- ``AI+med`` [Phonocardiogram (PCG) Murmur Detection Based on the Mean Teacher Method](https://doi.org/10.3390/s24206646) Yi Luo, Zuoming Fu, Yantian Ding, **Xiaojian Chen**, Kai Ding. *Sensors, 24(20):6646, 2024*.
+<!-- - ``AI+med`` [Phonocardiogram (PCG) Murmur Detection Based on the Mean Teacher Method](https://doi.org/10.3390/s24206646) Yi Luo, Zuoming Fu, Yantian Ding, **Xiaojian Chen**, Kai Ding. *Sensors, 24(20):6646, 2024*. -->
 
 - ``comp+bio`` [GFAP: Ultra-fast and Accurate Gene Functional Annotation Software for Plants](https://doi.org/10.1093/plphys/kiad393) Dong Xu, Yingxue Yang, Desheng Gong, **Xiaojian Chen**, Kangming Jin, Heling Jiang, Wenjuan Yu, Jihong Li, Jin Zhang, Weihua Pan. *Plant Physiology, 193(3): 1745-1748, 2023*.
 
