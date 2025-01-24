@@ -1,10 +1,10 @@
 I am currently a data analyst at the Bloomberg School of Public Health, Johns Hopkins University, advised by [Gregory D. Kirk](https://publichealth.jhu.edu/faculty/1507/gregory-d-kirk) and [Jing Sun](https://publichealth.jhu.edu/faculty/3744/jing-sun). I received my M.S. degree in Biomedical Engineering from Whiting School of Engineering, Johns Hopkins University, advised by [Hongkai Ji](https://jilab.org/people/) and [Weiqiang Zhou](http://www.weiqiangzhou.com/aboutme/). Prior to that, I obtained my B.S. degree in Computer Science from Nanjing Normal University, advised by [Yanhui Gu](http://schools.njnu.edu.cn/computer/person/yanhui-gu).
 
 My research interests lie in AI for Science, particularly in biology and medicine. Currently, I mainly focus on deep learning for large-scale genomic data representation. I also develop computational models to tackle biomedical challenges and drive progress in human healthcare. 
-In the past, I have collaborated with [Richen Liu](https://dabigtou.github.io/richenliu/) at NJNU, [Weihua Pan](https://agis.caas.cn/en/research/principalinvestigator/253198.htm) at CAAS, [Robert Stevens](https://profiles.hopkinsmedicine.org/provider/robert-david-stevens/2702555), [Kai Ding](https://profiles.hopkinsmedicine.org/provider/kai-ding/2777666), [Junyu Chen](https://junyuchen.me/) at Johns Hopkins Medical Institutes. 
+In the past, I have collaborated with [Richen Liu](https://dabigtou.github.io/richenliu/) at NJNU, [Weihua Pan](https://agis.caas.cn/en/research/principalinvestigator/253198.htm) at CAAS, [Robert Stevens](https://profiles.hopkinsmedicine.org/provider/robert-david-stevens/2702555), [Junyu Chen](https://junyuchen.me/) at Johns Hopkins Medical Institutes. 
 <!-- Some research works  -->
 <!-- If you are seeking any form of **academic cooperation**, please email me at [xchen279(at)jhu.edu](mailto:xchen279@jhu.edu). -->
-
+<!-- [Kai Ding](https://profiles.hopkinsmedicine.org/provider/kai-ding/2777666) -->
 
 <!-- I like to document my life through photos and videos, which can be viewed on bilibili. [![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D505318975&query=%24.data.totalSubs&logo=bilibili&label=subscribers)](https://space.bilibili.com/505318975?spm_id_from=333.337.0.0) Welcome to SUBSCRIBE! -->
 <!-- I like taking photo, and sometimes upload some videos on bilibili.  -->
