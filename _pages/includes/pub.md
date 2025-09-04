@@ -1,10 +1,9 @@
-# 📚 Publications <a href='https://scholar.google.com/citations?user=iShvJlEAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FJerry391%2FJerry391.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+# 📚 Publications 
+Full publication list can be found in <a href='https://scholar.google.com/citations?user=iShvJlEAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FJerry391%2FJerry391.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/pub/scmbert.png' alt="sym" width="100%"></div></div> 
+<div class='paper-box-text' markdown="1"> 
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/pub/scmbert.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[scMBERT: a Pre-trained Deep Learning Model based on Single-Cell Multiomic Data Representation and Prediction]()\\
+[scMBERT: a Pre-trained Deep Learning Model based on Single-Cell Multiomic Data Representation and Prediction](https://doi.org/10.1609/aaai.v39i28.35242)\\
 **Xiaojian Chen**, Kuai Yu, Minzhi Jiang, Cihan Xiao, Ziqi Fu, Weiqiang Zhou.
 
 <!-- - Many [video demos](https://www.bilibili.com/video/BV1be411N7JA) created by the [DiffSinger community](https://github.com/openvpi) are released.
@@ -56,9 +55,9 @@ Dong Xu, Yingxue Yang, Desheng Gong, **Xiaojian Chen**, Kangming Jin, Heling Jia
 - ``SciVIS`` [Multiuser Collaborative Illustration and Visualization for Volumetric Scientific Data](https://doi.org/10.1002/spe.2935) Richen Liu, Xiaodong Wen, Meng Jiang, Guang Yang, Chuyu Zhang, **Xiaojian Chen**. *Software: Practice and Experience, 51(5):1080-1096, 2021*.
 
 ## 📘 Conferences
-- ``comp+bio`` [scMBERT: a Pre-trained Deep Learning Model based on Single-Cell Multiomic Data Representation and Prediction]() **Xiaojian Chen**, Kuai Yu, Minzhi Jiang, Cihan Xiao, Ziqi Fu, Weiqiang Zhou. *AAAI, 2025*.
+- ``comp+bio`` [scMBERT: a Pre-trained Deep Learning Model based on Single-Cell Multiomic Data Representation and Prediction](https://doi.org/10.1609/aaai.v39i28.35242) **Xiaojian Chen**, Kuai Yu, Minzhi Jiang, Cihan Xiao, Ziqi Fu, Weiqiang Zhou. *AAAI, 2025*.
 
-- ``AI+med`` [Correlation Ratio for Unsupervised Learning of Multi-modal Deformable Registration](https://spie.org/medical-imaging/presentation/Correlation-ratio-for-unsupervised-learning-of-multi-modal-deformable-registration/13406-113) **Xiaojian Chen**, Yihao Liu, Shuwen Wei, Aaron Carass, Yong Du, Junyu Chen. *SPIE Medical Imaging 2025*.
+- ``AI+med`` [Correlation Ratio for Unsupervised Learning of Multi-modal Deformable Registration](https://arxiv.org/pdf/2504.12265) **Xiaojian Chen**, Yihao Liu, Shuwen Wei, Aaron Carass, Yong Du, Junyu Chen. *SPIE Medical Imaging 2025*.
 
 - ``comp+bio`` [MapLE: Matching Molecular Analogues Promptly with Low Computational Resources by Multi-metrics Evaluation](https://ojs.aaai.org/index.php/AAAI/article/view/30427) **Xiaojian Chen**, Chuyue Liao, Yanhui Gu, Yafei Li, Jinlan Wang, Yi Chen, Masaru Kitsuregawa. *AAAI, 2024*.
 
@@ -71,10 +70,10 @@ Dong Xu, Yingxue Yang, Desheng Gong, **Xiaojian Chen**, Kangming Jin, Heling Jia
 
 ## 📔 Patents
 
-- ``comp+bio`` [Ligand docking gesture virtual screening method based on quick retrieval](https://patents.google.com/patent/CN116246696A/en?inventor=%E9%99%88%E6%99%93%E5%81%A5&oq=%E9%99%88%E6%99%93%E5%81%A5&sort=new) **Xiaojian Chen**, Yanhui Gu, Chang Liu, Xianfeng Zhang, Haohui Xia, Yang Li, Yafei Li, Jinlan Wang. *CN116246696A, 2023*.
+- ``comp+bio`` [Ligand docking gesture virtual screening method based on quick retrieval](https://patents.google.com/patent/CN116246696A/en?) **Xiaojian Chen**, Yanhui Gu, Chang Liu, Xianfeng Zhang, Haohui Xia, Yang Li, Yafei Li, Jinlan Wang. *CN116246696A, 2023*.
 
-- ``comp+bio`` [Prediction method of docking posture between protein and ligand based on graphic neural network](https://patents.google.com/patent/CN116343910A/en?inventor=%E9%99%88%E6%99%93%E5%81%A5&sort=new) Yanhui Gu, **Xiaojian Chen**, Xianfeng Zhang, Yuansu Hao, Yuxin Wen, Chuyue Liao. *CN116343910A, 2023*.
+- ``comp+bio`` [Prediction method of docking posture between protein and ligand based on graphic neural network](https://patents.google.com/patent/CN116343910A/en?) Yanhui Gu, **Xiaojian Chen**, Xianfeng Zhang, Yuansu Hao, Yuxin Wen, Chuyue Liao. *CN116343910A, 2023*.
 
-- ``SciVIS`` [Immersive virtual large screen construction method based on cluster driving](https://patents.google.com/patent/CN115934014A/en?inventor=%E9%99%88%E6%99%93%E5%81%A5&oq=%E9%99%88%E6%99%93%E5%81%A5&sort=new) **Xiaojian Chen**, Richen Liu, Hansheng Wang, Hailong Wang, Zeyu Xia, Yu Zhu, Jiaqi Xu, Xiaohan Wang, Siyu Yan, Xiaojun Qian. *CN115934014A, 2023*.
+- ``SciVIS`` [Immersive virtual large screen construction method based on cluster driving](https://patents.google.com/patent/CN115934014B/en?) **Xiaojian Chen**, Richen Liu, Hansheng Wang, Hailong Wang, Zeyu Xia, Yu Zhu, Jiaqi Xu, Xiaohan Wang, Siyu Yan, Xiaojun Qian. *CN115934014B, 2023*.
 
-- ``SciVIS`` [Medical data visualization method based on histogram and nonlinear embedded transfer function](https://patents.google.com/patent/CN116206735A/en?inventor=%E9%99%88%E6%99%93%E5%81%A5&oq=%E9%99%88%E6%99%93%E5%81%A5&sort=new) Yu Zhu, Richen Liu, Xinru Li, Shuyu Bao, **Xiaojian Chen**, Guodong Chen, Rongxin Cang, Xiaohan Wang, Siyu Yan, Xiaojun Qian. *CN116206735A, 2023*.
+- ``SciVIS`` [Medical data visualization method based on histogram and nonlinear embedded transfer function](https://patents.google.com/patent/CN116206735A/en?) Yu Zhu, Richen Liu, Xinru Li, Shuyu Bao, **Xiaojian Chen**, Guodong Chen, Rongxin Cang, Xiaohan Wang, Siyu Yan, Xiaojun Qian. *CN116206735A, 2023*.

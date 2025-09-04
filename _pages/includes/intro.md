@@ -1,7 +1,10 @@
-I am currently a data analyst at the Bloomberg School of Public Health, Johns Hopkins University, advised by [Gregory D. Kirk](https://publichealth.jhu.edu/faculty/1507/gregory-d-kirk) and [Jing Sun](https://publichealth.jhu.edu/faculty/3744/jing-sun). I received my M.S. degree in Biomedical Engineering from Whiting School of Engineering, Johns Hopkins University, advised by [Hongkai Ji](https://jilab.org/people/) and [Weiqiang Zhou](http://www.weiqiangzhou.com/aboutme/). Prior to that, I obtained my B.S. degree in Computer Science from Nanjing Normal University, advised by [Yanhui Gu](http://schools.njnu.edu.cn/computer/person/yanhui-gu).
+I am an incoming PhD student in Computer Science at the University of Washington, where I am fortunated advised by [Su-In Lee](https://aims.cs.washington.edu/su-in-lee).
+My research interests lie in AI for Science, particularly in biology and medicine. Currently, I mainly focus on deep learning for large-scale single cell data representation. I am also dedicated to developing applications for model interpretability in the biomedical field.
 
-My research interests lie in AI for Science, particularly in biology and medicine. Currently, I mainly focus on deep learning for large-scale genomic data representation. I also develop computational models to tackle biomedical challenges and drive progress in human healthcare. 
-In the past, I have collaborated with [Richen Liu](https://dabigtou.github.io/richenliu/) at NJNU, [Weihua Pan](https://agis.caas.cn/en/research/principalinvestigator/253198.htm) at CAAS, [Robert Stevens](https://profiles.hopkinsmedicine.org/provider/robert-david-stevens/2702555), [Junyu Chen](https://junyuchen.me/) at Johns Hopkins Medical Institutes. 
+Previously, I was a data analyst at the Johns Hopkins Bloomberg School of Public Health, and received my M.S. degree in Biomedical Engineering, advised by [Hongkai Ji](https://jilab.org/people/) and [Weiqiang Zhou](http://www.weiqiangzhou.com/aboutme/). I obtained my B.S. degree in Computer Science from Nanjing Normal University.
+
+
+
 <!-- Some research works  -->
 <!-- If you are seeking any form of **academic cooperation**, please email me at [xchen279(at)jhu.edu](mailto:xchen279@jhu.edu). -->
 <!-- [Kai Ding](https://profiles.hopkinsmedicine.org/provider/kai-ding/2777666) -->

@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xiaojian Chen"
-description              : "M.S.E Student in BME, JHU"
+description              : "Ph.D. student @ UW CSE"
 repository               : "Jerry391/Jerry391.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,11 +24,11 @@ author:
   name             : "Xiaojian Chen"
   avatar           : "images/avator.jpg"
   bio              : 
-  location         : "Baltimore, MD"
+  location         : "Seattle, WA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=iShvJlEAAAAJ"
-  email            : "xchen279@jhu.edu"
+  email            : "xchen172@uw.edu"
   researchgate     : "https://www.researchgate.net/profile/Xiaojian_Chen5" # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -136,8 +136,11 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# permalink: /:categories/:title/
+# timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# destination: _site
+# baseurl: "/~xchen172"  # 如果站点在子路径下
+# url: "https://homes.cs.washington.edu"
 
 
 # Plugins
