@@ -1,5 +1,9 @@
 source "https://rubygems.org"
 
+# Specify a Ruby version compatible with the gems in this project. GitHub Pages
+# and the bundled Jekyll/plugins are known to work with Ruby 3.1.x.
+# ruby '3.1.4'
+
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:

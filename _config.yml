@@ -9,7 +9,7 @@
 title                    : "Xiaojian Chen"
 description              : "Ph.D. student @ UW CSE"
 repository               : "Jerry391/Jerry391.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : False
 
 # google analytics
 google_analytics_id      :  G-ZV7XYKJVMD # get google_analytics_id from https://analytics.google.com/analytics/

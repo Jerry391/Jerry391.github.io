@@ -41,7 +41,7 @@ Dong Xu, Yingxue Yang, Desheng Gong, **Xiaojian Chen**, Kangming Jin, Heling Jia
 
 
 ## 📕 Journals
-- ``AI+med`` [Risk Prediction for Non-cardiac Surgery Using the 12-Lead Electrocardiogram: An Explainable Deep Learning Approach](https://doi.org/10.1101/2024.11.19.24317577) Carl Harris, Anway Pimpalkar, Ataes Aggarwal, Jiyuan Yang, **Xiaojian Chen**, Samuel Schmidgall, Sampath Rapuri, Joseph L. Greenstein, Casey Overby Taylor, Robert D. Stevens. *medRxiv 2024.11.19.24317577*; Submitted to Circulation.
+- ``AI+med`` [Preoperative risk prediction of major cardiovascular events in noncardiac surgery using the 12-lead electrocardiogram: an explainable deep learning approach](https://doi.org/10.1016/j.bja.2025.07.085) Carl Harris, Anway Pimpalkar, Ataes Aggarwal, Jiyuan Yang, **Xiaojian Chen**, Samuel Schmidgall, Sampath Rapuri, Joseph L. Greenstein, Casey Overby Taylor, Robert D. Stevens. *British Journal of Anaesthesia, 2025*.
 
 <!-- - ``AI+med`` [Phonocardiogram (PCG) Murmur Detection Based on the Mean Teacher Method](https://doi.org/10.3390/s24206646) Yi Luo, Zuoming Fu, Yantian Ding, **Xiaojian Chen**, Kai Ding. *Sensors, 24(20):6646, 2024*. -->
 

@@ -1,4 +1,4 @@
-I am an incoming PhD student in Computer Science at the University of Washington, where I am fortunated advised by [Su-In Lee](https://aims.cs.washington.edu/su-in-lee).
+I am a first-year PhD student in Computer Science at the University of Washington, where I am fortunated advised by [Su-In Lee](https://aims.cs.washington.edu/su-in-lee).
 My research interests lie in AI for Science, particularly in biology and medicine. Currently, I mainly focus on deep learning for large-scale single cell data representation. I am also dedicated to developing applications for model interpretability in the biomedical field.
 
 Previously, I was a data analyst at the Johns Hopkins Bloomberg School of Public Health, and received my MSE degree in Biomedical Engineering, advised by [Hongkai Ji](https://jilab.org/people/) and [Weiqiang Zhou](http://www.weiqiangzhou.com/aboutme/). I obtained my Bachelor's degree in Computer Science from Nanjing Normal University.
