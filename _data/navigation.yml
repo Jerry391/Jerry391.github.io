@@ -18,11 +18,11 @@ main:
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
 
-  - title: "Teaching Assistant"
-    url: "/#-teaching-assistant"
-
   - title: "Experience"
     url: "/#-experience"
+
+  - title: "Academic Service"
+    url: "/#-academic-service"
 
   - title: "@Photography"
     url: "https://jerry391.github.io/photography"
