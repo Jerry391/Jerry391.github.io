@@ -1,54 +1,29 @@
 name: Get Citation Data
 
 on:
-  workflow_dispatch:      # Allows manual triggering for testing
+  page_build:
   schedule:
-    - cron: '0 8 * * 1,4' # At 08:00 on Monday and Thursday (Space removed for strict cron parsing)
+    - cron: '0 8 * * 1,4' # At 08:00 on Monday and Thursday
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:          # explicitly grant write permission
-      contents: write
-      
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.x'
-          cache: 'pip' # Caches dependencies to speed up future runs
-
-      - name: Install Dependencies
-        run: |
-          cd ./google_scholar_crawler
-          pip install -r requirements.txt
-
-      - name: Run Crawler and Push Data
-        env:
-          GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          cd ./google_scholar_crawler
-          python main.py
-          
-          # Verify results directory exists
-          if [ ! -d "./results" ]; then
-            echo "Directory ./results does not exist. Script may have failed."
-            exit 1
-          fi
-
-          cd ./results
-          
-          # Initialize a fresh git repo to force push only these files (Orphan branch logic)
-          git init
-          git config user.name "${GITHUB_ACTOR}"
-          git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
-          
-          git add .
-          git commit -m "Updated Citation Data: $(date -u)"
-          
-          # Push to the google-scholar-stats branch
-          git push "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:google-scholar-stats --force
+    - uses: actions/checkout@v2
+    - name: Install Reqs
+      run: |
+        sudo apt-get install python3-setuptools
+    - name: Run
+      run: |
+        cd ./google_scholar_crawler
+        pip3 install -r requirements.txt
+        python3 main.py
+        cd ./results
+        git init
+        git config --local user.name "${GITHUB_ACTOR}"
+        export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
+        git add *.json
+        git commit -m "Updated Citation Data"
+        git push "${remote_repo}" HEAD:google-scholar-stats --force
+      env: 
+        GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
